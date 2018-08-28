@@ -49,7 +49,7 @@ public class Student extends Citizen{
         }
     }
 }
-class Solution {
+class SolutionStu {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String firstName = scan.next();
